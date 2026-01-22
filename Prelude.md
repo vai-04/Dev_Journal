@@ -1,7 +1,6 @@
-# The Story So Far...
+# The Story So Far:
 
  *** 
-
 > Oh what a journey this has been- from thinking i will be done with frontend and backend in 3 months max and then focus on learning devops to just starting React tutorials in my second semester in college...
 > 
 > What changed, one might ask. And well life happened😂.
@@ -15,7 +14,4 @@
 > Finally Learning Markdown can be dubbed as the final thing I learned in like 20 minutes so I can make this Journal✨. So I will be playing with it in the logs to come if you dont mind :) .
 
   *** 
-
-  ## Thanks for reading so far... you will not be dissapointed by all that is to come.
-
-  ### -Vai
+  ## Thanks for reading so far... you will not be dissapointed by all that is to come,  *-Vai*
