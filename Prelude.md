@@ -14,5 +14,4 @@
 > Finally Learning Markdown can be dubbed as the final thing I learned in like 20 minutes so I can make this Journal✨. So I will be playing with it in the logs to come if you dont mind :) .
 
   *** 
-  ## Thanks for reading so far... you will not be dissapointed by all that is to come,
-  ## *-Vai*
+  ## Thanks for reading so far... you will not be dissapointed by all that is to come,                     *-Vai*
