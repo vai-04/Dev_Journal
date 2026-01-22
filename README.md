@@ -1,4 +1,4 @@
-# This will function as the **Timeline** for my Journal, an Index:
+# This will function as the **Index** for my Journal.
 
  *** 
 
